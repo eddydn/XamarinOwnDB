@@ -1,0 +1,8 @@
+XamarinOwnDB.MainActivity, XamarinOwnDB;md5eeb374eb8eb36dcf6a15b804bede1e06.MainActivity
+XamarinOwnDB.MainActivity, XamarinOwnDB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eeb374eb8eb36dcf6a15b804bede1e06.MainActivity
+XamarinOwnDB.MainActivity;md5eeb374eb8eb36dcf6a15b804bede1e06.MainActivity
+xamarinowndb.MainActivity;md5eeb374eb8eb36dcf6a15b804bede1e06.MainActivity
+XamarinOwnDB.Helper.DbHelper, XamarinOwnDB;md55e57222c604fcdd229dc00132af5c7b7.DbHelper
+XamarinOwnDB.Helper.DbHelper, XamarinOwnDB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55e57222c604fcdd229dc00132af5c7b7.DbHelper
+XamarinOwnDB.Helper.DbHelper;md55e57222c604fcdd229dc00132af5c7b7.DbHelper
+xamarinowndb.helper.DbHelper;md55e57222c604fcdd229dc00132af5c7b7.DbHelper
